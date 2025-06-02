@@ -1,5 +1,3 @@
-# ai-legal-compliance-verifier-pacer
-
 # AI Legal Compliance Verifier with PACER Integration
 
 This tool automates legal compliance checks by integrating with PACER to retrieve and analyze federal court documents using AI.
